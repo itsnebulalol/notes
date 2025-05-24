@@ -1,0 +1,1 @@
+Obsidian vault containing notes on various tools and subjects synced to GitHub. Inspired by https://github.com/ryuheechul/reflect.
