@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "products/Brocade.md",
+                "file": "os/OpenWRT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brocade"
+              "title": "OpenWRT"
             }
           }
         ],
@@ -198,6 +198,7 @@
   "lastOpenFiles": [
     "tools/Nix.md",
     "products/Brocade.md",
+    "crypto",
     "products",
     "README.md",
     "os/OpenWRT.md",
